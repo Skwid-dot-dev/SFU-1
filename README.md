@@ -1,4 +1,4 @@
-Project Manna: The Sovereign Food Network (SFU-1)
+Project Manna: The Sovereign Food Unit (SFU-1)
 Building the self-sustaining biological infrastructure for a hunger-free world.
 
 📌 Vision

@@ -1,4 +1,5 @@
 graph TD
+
     %% 1. Input Layer
     subgraph Inputs ["External Inputs"]
         A1[Solar Energy] --> B1
@@ -54,4 +55,5 @@ graph TD
     D3 -- "Friction Heat" --> B6
     D1 -- "Friction Heat" --> B6
     C1 -- "CO2" --> B2
+
     C2 -- "CO2" --> E1

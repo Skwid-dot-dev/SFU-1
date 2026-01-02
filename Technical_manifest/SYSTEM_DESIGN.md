@@ -1,3 +1,4 @@
+```mermaid
 graph TD
 
     %% 1. Input Layer
@@ -57,3 +58,4 @@ graph TD
     C1 -- "CO2" --> B2
 
     C2 -- "CO2" --> E1
+

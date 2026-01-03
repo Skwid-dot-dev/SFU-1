@@ -1,10 +1,11 @@
-Project Manna: The Sovereign Food Unit (SFU-1)
-Building the self-sustaining biological infrastructure for a hunger-free world.
+Project Manna: My take on a self sustaining net positive autonomous food production. 
+
 
 📌 Vision
 
 Project Manna is an open-source blueprint for the Sovereign Food Unit (SFU): a net-positive, closed-loop food factory designed to produce high-nutrient, 3D-printed meals with zero recurring input costs.
 By integrating insect protein cultivation, vertical hydroponics, solar energy harvesting, and thermal displacement, we are shifting the paradigm from "food aid" to "food sovereignty." Our pilot facility is designed for South Carolina, strategically positioned to serve the state's prison systems, homeless networks, and food-insecure corridors.
+To test this proof of concept, we are blueprinting the systems for a Sovereign Food Pod (SFP): A micro build of the facilities first-principles to fit in a 40 ft Shipping Container. Details can be found in the SFP folder.
 
 ⚙️ The Circular Architecture
 The SFU operates on a Five-Pillar Closed-Loop System:
@@ -12,21 +13,25 @@ The SFU operates on a Five-Pillar Closed-Loop System:
 1. The Biological Engine (Protein)
 Species: Tenebrio molitor (Yellow Mealworm).
 Process: An automated vertical rearing system that utilizes 1% of every harvest to self-perpetuate the beetle breeding stock.
-Output: High-density insect flour (60%+ protein).
+Output: High-density insect flour (60%+ protein), fertilizer (Frass).
+Synergy: CO2 is reused in the Fodder Loop for up to 25% additional growth gains.
+Synergy: Frass is reused in the Fodder Loop eliminating the needs for fertilizers.
 
-2. The Fodder Loop (Feed)
+3. The Fodder Loop (Feed)
 Process: Vertical Hydroponic Fodder (VHF) units growing barley and wheatgrass grass-mats in 7-day cycles.
+Output: 70% of fodder is used as feed for the Engine, the other 30% is dehydrated and utilized as bedding for the engine.
 Synergy: The mealworms' fecal matter (Frass) is processed into liquid nutrients to feed the hydroponic systems, eliminating the need for external fertilizers.
+Synergy: CO2 is collected from the Mealworms area to boost growth rates.
 
-3. The Fabricator (3D Printing & Stabilizers)
+5. The Fabricator (3D Printing & Stabilizers)
 Stabilizers: In-house cultivation of Algae (Agar) and Guar (Gum) to serve as binding agents.
 Printing: Industrial-scale 3D food extruders convert flour and stabilizers into "Nutri-Bricks"—palatable, nutrient-dense, shelf-stable meals tailored to specific caloric requirements.
 
-4. Energy & Thermal Symbiosis
-Solar Skin: 150kW-250kW rooftop solar array coupled with industrial battery storage for 24/7 autonomy.
+6. Energy & Thermal Symbiosis
+Solar Skin: Rooftop solar array coupled with industrial battery storage for 24/7 autonomy.
 Thermal Loop: Waste heat from 3D printers and milling motors is captured and piped into the insect nurseries, while evaporative cooling from the hydroponic wing regulates the facility temperature.
 
-5. The Revenue Layer (Subsidized Distribution)
+7. The Revenue Layer (Subsidized Distribution)
 Media-Packaging: Food packaging is 3D-molded from plant byproduct fiber and utilized as ad-space for Social Impact (ESG) partners.
 Waste-to-Wealth: Excess Frass is sold to local South Carolina agriculture as premium organic fertilizer (NPK 4-2-2).
 

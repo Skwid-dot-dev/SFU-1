@@ -5,7 +5,7 @@ Project Manna: My take on a self sustaining net positive autonomous food product
 
 Project Manna is an open-source blueprint for the Sovereign Food Unit (SFU): a net-positive, closed-loop food factory designed to produce high-nutrient, 3D-printed meals with zero recurring input costs.
 By integrating insect protein cultivation, vertical hydroponics, solar energy harvesting, and thermal displacement, we are shifting the paradigm from "food aid" to "food sovereignty." Our pilot facility is designed for South Carolina, strategically positioned to serve the state's prison systems, homeless networks, and food-insecure corridors.
-To test this proof of concept, we are blueprinting the systems for a Sovereign Food Pod (SFP): A micro build of the facilities first-principles to fit in a 40 ft Shipping Container. Details can be found in the SFP folder.
+To test this proof of concept, we are blueprinting the systems for a Sovereign Food Pod (SFP): A micro build of the facilities first-principles to fit in a 40 ft High Cube Shipping Container. Details can be found in the SFP folder.
 
 ⚙️ The Circular Architecture
 The SFU operates on a Five-Pillar Closed-Loop System:
@@ -64,6 +64,10 @@ Additive Manufacturing: Developing high-viscosity food-grade extrusion heads.
 System Architects: Refining the CO2/Thermal exchange between the biological and mechanical modules.
 
 Policy & Law: Navigating FDA GRAS (Generally Recognized as Safe) certifications for insect-based proteins.
+
+Who we would love to hear from:
+
+Vienna Scientific Instruments 
 
 📜 License
 
